@@ -1,0 +1,107 @@
+body{
+	background-color:white;
+}
+header{
+	background-color:rgb(74, 113, 35);
+	border-radius:5px;
+	height: 65px;
+	text-align:center;
+	color:ghostwhite;
+	font-size:20px;
+	
+}
+
+
+
+p{
+	background-color:#6B8E23;
+	font-size:17px;
+	margin:20px;
+	padding:20px;
+	border-radius:25px 25px 25px ;
+	color:black;
+	
+}
+h1{
+	font-family:helvetica;
+	font-size:25px;
+	text-align:cener;
+}
+main {
+	background-color:white;
+	height: 300px;
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	justify-content: center;
+	
+}
+main "#infor" {
+	background-color:white;
+	height: 400px;
+	display:flex;
+	flex-direction:space-around;
+	align-items:center;
+	
+}
+section{
+	background-color:white;
+	width:600px;
+	height:400px;
+	margin-right:15px;
+	margin-left:15px;
+	flex-direction:space-around;
+	
+}
+
+main "#hoje" {
+	background-color:white;
+	height: 400px;
+	display:flex;
+	flex-direction:space-between;
+	align-items:center;
+}
+section"#hoje"{
+	background-color:white;
+	width:300px;
+	height:400px;
+	margin-right:15px;
+	margin-left:15px;
+}	
+main "#ambiente" {
+	background-color:white;
+	height: 300px;
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	justify-content: center;
+}
+
+footer{
+	width:350%;
+	background-color:white;
+	height:250px;
+	margin-top:200px;
+	color:black;
+	
+}
+h2{
+	font-size:15px;
+	margin:30px;
+	padding:20px;
+	align-items:center;
+}
+main "#certo" {
+	background-color:white;
+	height: 400px;
+	display:flex;
+	flex-direction:space-between;
+	align-items:center;
+}
+section"#certo"{
+	background-color:white;
+	width:50px;
+	height:50px;
+	margin-right:15px;
+	margin-left:15px;
+}	
